@@ -1,0 +1,167 @@
+body{  
+  background-repeat: no-repeat;  
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  overflow: hidden
+ }
+
+ .header .nav-link{ 
+  color: pink; }
+
+
+ .name-text{ 
+  text-align: right;
+  margin-top: 35% ;
+  margin-right: 13%;
+  font-family: 'Sigmar', cursive; 
+  overflow: hidden;
+  font-size: 34px;
+  font-weight: bold;
+  }
+
+.ProjectText{
+  color: black;
+  font-family: 'Sigmar',cursive;
+  font-size: 15px;
+  font-weight: bold;
+}
+.ProjectImage{
+  margin-top: 8%;
+  padding: 15px;
+  filter: drop-shadow(0 0 0.75rem black);}
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+
+
+      }
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+    }
+  }
+
+
+
+.garchignii-heseg-about{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 3px solid #bfa89e;
+  border-radius: 8px ;
+  margin-left: -11.2%;
+  margin-right: -11.2%;
+  margin-top: -11.2%;
+  height:17%;
+  background-color: #bfa89e;
+  text-align: center;
+  color:#fff; 
+  font-family: 'Sigmar', cursive;
+  font-size: 35px;
+  font-weight: bold;
+
+}
+
+
+.bd-placeholder-img .rounded-circle{
+  margin-top: 40%;
+}
+
+.zuragtaiHeseg{ 
+  margin-top: 5%;
+}
+
+ .col-md-4{ 
+  margin-top:-4%;
+  margin-bottom: -10%; 
+}
+.col-md-5 { 
+  margin-top:-4%; 
+  margin-bottom: -10%;  
+}
+.col-md-3 { 
+  margin-top:-4%;
+}
+
+
+#Experiences-text { 
+  margin-top:-6% 
+}
+
+
+#intro-text { 
+  font-family: 'Sigmar', cursive;
+  font-size: 15px;
+
+ }
+ #hello-text{ 
+  font-family: 'Sigmar', cursive;
+  font-size: 35px;
+  font-weight: bold;
+  color: #3b6064;
+  }
+
+.skill-heseg{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 3px solid #bfa89e;
+  border-radius: 8px ;
+  margin-left: -23.2%;
+  margin-right: -23.2%;
+  margin-top: -23.2%;
+  height:17%;
+  background-color: #bfa89e;
+  text-align: center;
+  color:#fff; 
+  font-family: 'Sigmar', cursive;
+  font-size: 35px;
+  font-weight: bold;
+ }
+ #Experiences-text{ 
+  font-family: 'Sigmar', cursive;
+  font-size: 15px;
+  margin-top: 18px;
+  }
+  #Experiences-texz{ 
+  font-family: 'Sigmar', cursive;
+  font-size: 20px;
+  margin-top: 18px;
+  font-weight: bold;
+   }
+.d-flex{ 
+   text-align: center; 
+   margin-top: 8%;
+   margin-left: 3%;
+   responsive: true;
+   property: box-shadow,
+
+ }
+ .dooshoo{ 
+ margin-top:20%;
+padding-left: 5px;}
+.ContactP{ 
+margin-top: 10%;
+margin-right: 14%;
+font-family: 'Sigmar', cursive;
+font-size: 20px;
+
+
+ }
+ #Con-Photo{ 
+    property: box-shadow,
+    filter: drop-shadow(0 0 0.75rem black);}
+  }
+#Holboo{ 
+  font-family: 'Sigmar', cursive;
+  font-size: 35px;
+  font-weight: bold;
+ }
